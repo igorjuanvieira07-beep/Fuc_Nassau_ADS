@@ -1,0 +1,1 @@
+Um repositório é o local onde Armazena o projeto, O Readme(é basicamente onde se coloca a descrição do projeto,para quer analisar poder compreende-ló melhor), Watch é onde se habilita para receber notíficaçoes do Repositório desejado,
